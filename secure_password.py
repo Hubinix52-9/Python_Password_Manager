@@ -3,7 +3,7 @@ import string
 
 
 class password_security:
-    def __password_salting():
+    def password_securing():
         pass
 
     def __generate_salt(salt_length=24):
@@ -28,5 +28,3 @@ class password_security:
         secure_salt = ''.join(
             secrets.choice(keyboard_characters) for _ in range(salt_length))
         return secure_salt
-
-    def
