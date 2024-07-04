@@ -1,0 +1,4 @@
+pm_pep = $2b$12$NCqU
+
+pepper - 12 bit
+salt - 12 bit
